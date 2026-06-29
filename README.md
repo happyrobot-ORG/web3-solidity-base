@@ -1,12 +1,14 @@
+# 测试链部署的erc20 token合约
+https://sepolia.etherscan.io/token/0x1130dee123d7a1ced470f5c555e1ff2c2a762ddc#code
+
+# 测试链部署的业务合约
+https://sepolia.etherscan.io/address/0x3e5B3D17C11975321da5b8B1D3D426ef94D5d9fE
+
 # 学习文档github地址
 https://github.com/happyrobot-ORG/web3-solidity-base
 
 # 学习文档github地址
 目前该版本在remix 桌面版中直接进行编写和调用。包含一个erc20的fundMeToken合约，以及一个fundMe业务众筹合约。这两个合约之间有业务逻辑交互，如果用户投资众筹合约达到目标后。可以mint得到token代币奖励。并且在进行claim代币领奖时，额外的进行一些业务逻辑处理
-
-# 测试链部署的业务合约和 erc20 token合约
-https://sepolia.etherscan.io/token/0x1130dee123d7a1ced470f5c555e1ff2c2a762ddc#code
-https://sepolia.etherscan.io/address/0x3e5B3D17C11975321da5b8B1D3D426ef94D5d9fE
 
 # Web3 教程 - Solidity，Hardhat，Token standard，Interoperability
 This tutorial represents an educational example to use a Chainlink system, product, or service and is provided to demonstrate how to interact with Chainlink's systems, products, and services to integrate them into your own. This template is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, it has not been audited, and it may be missing key checks or error handling to make the usage of the system, product or service more clear. Do not use the code in this example in a production environment without completing your own audits and application of best practices. Neither Chainlink Labs, the Chainlink Foundation, nor Chainlink node operators are responsible for unintended outputs that are generated due to errors in code. 
